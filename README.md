@@ -1,0 +1,1 @@
+I practiced inserting, updating, and deleting user records, along with SELECT queries in MySQL Workbench. The most challenging part was getting my SQL file into the right folder and ready to upload to GitHub.
